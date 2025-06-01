@@ -75,6 +75,7 @@ The solution achieves data latency of under 3 minutes and enables accurate, time
 For questions or consulting inquiries, please contact:  
 **Debajyoti Kar**  
 Email: debjyoti@datakrypton.ai
+
 Website:www.datakrypton.ai
 
 
